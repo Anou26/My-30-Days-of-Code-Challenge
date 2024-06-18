@@ -6,6 +6,7 @@
 2. LeetCode Easy 169: Majority Element (Array, Hash Table, Divide and Conquer, Sorting, Counting)
 3. LeetCode Easy 125: Valid Palindrome (Two-Pointers, String)
 4. LeetCode Easy 577: Employee Bonus (Database)
+5. LeetCode Easy 1280: Students and Examinations (Database)
 ## 🛠 15 Days of LeetCode Medium
 ## 🛠 5 Days of LeetCode Hard 
 

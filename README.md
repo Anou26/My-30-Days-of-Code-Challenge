@@ -4,6 +4,8 @@
 ### Day 1 (Easy)
 1. LeetCode Easy 27: Remove Element (Arrays, Two Pointers)
 2. LeetCode Easy 169: Majority Element (Array, Hash Table, Divide and Conquer, Sorting, Counting)
+3. LeetCode Easy 125: Valid Palindrome (Two-Pointers, String)
+4. LeetCode Easy 577: Employee Bonus (Database)
 ## 🛠 15 Days of LeetCode Medium
 ## 🛠 5 Days of LeetCode Hard 
 

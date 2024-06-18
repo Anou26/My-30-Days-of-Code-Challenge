@@ -3,7 +3,7 @@
 ## 🛠 10 Days of LeetCode Easy
 ### Day 1 (Easy)
 1. LeetCode Easy 27: Remove Element (Arrays, Two Pointers)
-2. 
+2. LeetCode Easy 169: Majority Element (Array, Hash Table, Divide and Conquer, Sorting, Counting)
 ## 🛠 15 Days of LeetCode Medium
 ## 🛠 5 Days of LeetCode Hard 
 

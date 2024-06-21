@@ -10,9 +10,15 @@
 ### Day 2 (Easy) - 6/19/2024
 6. LeetCode Easy 26: Remove Duplicates from Sorted Array (Arrays, Two Pointers)
 7. LeetCode Easy 121: Best Time to Buy and Sell Stock (Array, Dynamic Programming)
-8. LeetCode Easy 382: Is Subsequence (Two Pointers, String, dynamic Programming)
+8. LeetCode Easy 382: Is Subsequence (Two Pointers, String, Dynamic Programming)
 9. LeetCode Easy 620: Not Boring Movies (Database)
 10. LeetCode Easy 1251: Average Selling Price (Database)
+### Day 3 (Easy) - 6/20/2024
+11. LeetCode Easy 58: Length of Last Word (String)
+12. LeetCode Easy 13: Roman to Integer (Hash Table, Math, String)
+13. LeetCode Easy 14: Longest Common Prefix (String, Trie)
+14. LeetCode Easy 1075: Project Employees I (Database)
+15. 
 ## 🛠 15 Days of LeetCode Medium
 ## 🛠 5 Days of LeetCode Hard 
 

@@ -29,7 +29,8 @@
 21. LeetCode Easy 28: Find the index of the first occurrence in a string (Two Pointers, String, String-Matching)
 22. LeetCode Easy 383: Ransom Note (Hash Table, String, Counting)
 23. LeetCode Easy 20: Valid Parentheses (Stack, String)
-24. 
+24. LeetCode Easy 596: Classes More than 5 Students (Database)
+25. LeetCode Easy 1729: Find Followers Count (Database)
 ## 🛠 15 Days of LeetCode Medium
 ## 🛠 5 Days of LeetCode Hard 
 

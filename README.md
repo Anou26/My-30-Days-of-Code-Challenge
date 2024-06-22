@@ -27,6 +27,9 @@
 20. LeetCode Easy 1141: User Activity for the Past 30 Days I (Database)
 ### Day 5 (Easy) - 6/22/2024
 21. LeetCode Easy 28: Find the index of the first occurrence in a string (Two Pointers, String, String-Matching)
+22. LeetCode Easy 383: Ransom Note (Hash Table, String, Counting)
+23. LeetCode Easy 20: Valid Parentheses (Stack, String)
+24. 
 ## 🛠 15 Days of LeetCode Medium
 ## 🛠 5 Days of LeetCode Hard 
 

@@ -31,6 +31,12 @@
 23. LeetCode Easy 20: Valid Parentheses (Stack, String)
 24. LeetCode Easy 596: Classes More than 5 Students (Database)
 25. LeetCode Easy 1729: Find Followers Count (Database)
+### Day 6 (Easy) - 6/23/2024
+26. LeetCode Easy 283: Move Zeroes (Array, Two Pointers)
+27. LeetCode Easy 1732: Find the Highest Altitude (Array, Prefix Sum)
+28. LeetCode Easy 724: Find Pivot Index (Array, Prefix Sum)
+29. LeetCode Easy 1731: The Number of Employees Which Report to Each Employee (Database)
+30. LeetCode Easy 1789: Primary Department for Each Employee (Database)
 ## 🛠 15 Days of LeetCode Medium
 ## 🛠 5 Days of LeetCode Hard 
 

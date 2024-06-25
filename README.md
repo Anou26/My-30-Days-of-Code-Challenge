@@ -37,6 +37,12 @@
 28. LeetCode Easy 724: Find Pivot Index (Array, Prefix Sum)
 29. LeetCode Easy 1731: The Number of Employees Which Report to Each Employee (Database)
 30. LeetCode Easy 1789: Primary Department for Each Employee (Database)
+### Day 7 (Easy) - 6/24/2024
+31. LeetCode Easy 205: Isomorphic Strings (Hash Table, String)
+32. LeetCode Easy 290: Word Pattern (Hash Table, String)
+33. LeetCode Easy 933: Number of Recent Calls (Design, Queue, Data Stream)
+34. LeetCode Easy 610: Triangle Judgement (Database)
+35. LeetCode Easy 1667: Fix Names in a Table (Database)
 ## 🛠 15 Days of LeetCode Medium
 ## 🛠 5 Days of LeetCode Hard 
 

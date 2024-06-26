@@ -43,6 +43,12 @@
 33. LeetCode Easy 933: Number of Recent Calls (Design, Queue, Data Stream)
 34. LeetCode Easy 610: Triangle Judgement (Database)
 35. LeetCode Easy 1667: Fix Names in a Table (Database)
+### Day 8 (Easy) - 6/25/2024
+36. LeetCode Easy 242: Valid Anagram (Hash Table, String, Sorting)
+37. LeetCode Easy 228: Summary Ranges (Array)
+38. LeetCode Easy 141: Linked List Cycle (Hash Table, Linked List, Two Pointers)
+39. LeetCode Easy 1527: Patients with a Condition (Database)
+40. LeetCode Easy 196: Delete Duplicate Emails (Database)
 ## 🛠 15 Days of LeetCode Medium
 ## 🛠 5 Days of LeetCode Hard 
 

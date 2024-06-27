@@ -49,6 +49,12 @@
 38. LeetCode Easy 141: Linked List Cycle (Hash Table, Linked List, Two Pointers)
 39. LeetCode Easy 1527: Patients with a Condition (Database)
 40. LeetCode Easy 196: Delete Duplicate Emails (Database)
+### Day 9 (Easy) - 6/26/2024
+41. LeetCode Easy 1: Two Sum (Array, Hash Table)
+42. LeetCode Easy 21: Merge Two Sorted Lists (Linked List, Recursion)
+43. LeetCode Easy 104: Maximum Depth of a Binary Tree (Tree, DFS, BFS, Binary Tree)
+44. LeetCode Easy 1484: Group Sold Products by the Date (Database)
+45. LeetCode Easy 1327: List the Products Ordered in a Period (Database)
 ## 🛠 15 Days of LeetCode Medium
 ## 🛠 5 Days of LeetCode Hard 
 

@@ -55,6 +55,12 @@
 43. LeetCode Easy 104: Maximum Depth of a Binary Tree (Tree, DFS, BFS, Binary Tree)
 44. LeetCode Easy 1484: Group Sold Products by the Date (Database)
 45. LeetCode Easy 1327: List the Products Ordered in a Period (Database)
+### Day 10 (Easy) - 6/27/2024
+46. LeetCode Easy 100: Same Tree (Tree, DFS, BFS, Binary Tree)
+47. LeetCode Easy 530: Minimum Absolute Difference in BST (Tree, DFS, BFS, Binary Search Tree, Binary Tree)
+48. LeetCode Easy 108: Convert Sorted Array to Binary Search Tree (Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree)
+49. LeetCode Easy 1251: Average Selling Price (Database)
+50. LeetCode Easy 1211: Queries Quality and Percentage (Database)
 ## 🛠 15 Days of LeetCode Medium
 ## 🛠 5 Days of LeetCode Hard 
 

@@ -62,6 +62,12 @@
 49. LeetCode Easy 1251: Average Selling Price (Database)
 50. LeetCode Easy 1211: Queries Quality and Percentage (Database)
 ## 🛠 15 Days of LeetCode Medium
+### Day 11 (Medium) - 6/28/2024
+51. LeetCode Medium 80: Remove Duplicates from Sorted Array II (Array, Two Pointers)
+52. LeetCode Medium 189: Rotate Array (Array, Math, Two Pointers)
+53. LeetCode Medium 122: Best Time to Buy and Sell Stock II (Array, Dynamic Programming, Greedy)
+54. LeetCode Medium 570: Managers with Atleast 5 Direct Reports (Database)
+55. LeetCode Medium 1193: Monthly Transactions I (Database)
 ## 🛠 5 Days of LeetCode Hard 
 
 

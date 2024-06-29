@@ -68,6 +68,12 @@
 53. LeetCode Medium 122: Best Time to Buy and Sell Stock II (Array, Dynamic Programming, Greedy)
 54. LeetCode Medium 570: Managers with Atleast 5 Direct Reports (Database)
 55. LeetCode Medium 1193: Monthly Transactions I (Database)
+### Day 12 (Medium) - 6/29/2024
+56. LeetCode Medium 167: Two Sum II Input Array is Sorted (Array, Two Pointers, Binary Search)
+57. LeetCode Medium 151: Reverse Words in a String (Two Pointers, String)
+58. LeetCode Medium 209: Minimum Size Subarray Sum (Array, Binary Search, Sliding Window, Prefix Sum)
+59. LeetCode Medium 1174: Immediate Food Delivery II (Database)
+60. LeetCode Medium 1164: Product Price at a Given Date (Database)
 ## 🛠 5 Days of LeetCode Hard 
 
 

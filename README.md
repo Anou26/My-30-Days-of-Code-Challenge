@@ -74,6 +74,12 @@
 58. LeetCode Medium 209: Minimum Size Subarray Sum (Array, Binary Search, Sliding Window, Prefix Sum)
 59. LeetCode Medium 1174: Immediate Food Delivery II (Database)
 60. LeetCode Medium 1164: Product Price at a Given Date (Database)
+### Day 13 (Medium) - 6/30/2024
+61. LeetCode Medium 238: Product of Array Except Self (Array, Prefix Sum)
+62. LeetCode Medium 1456: Maximum Number of Vowels in a Substring of Given Length (String, Sliding Window)
+63. LeetCode Medium 1657: Determine if Two Strings Are Close (HashTable, String, Sorting, Counting)
+64. LeetCode Medium 1204: Last Person to Fit in the Bus (Database)
+65. LeetCode Medium 176: Second Highest Salary (Database)
 ## 🛠 5 Days of LeetCode Hard 
 
 

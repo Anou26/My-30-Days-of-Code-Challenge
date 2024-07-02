@@ -80,6 +80,12 @@
 63. LeetCode Medium 1657: Determine if Two Strings Are Close (HashTable, String, Sorting, Counting)
 64. LeetCode Medium 1204: Last Person to Fit in the Bus (Database)
 65. LeetCode Medium 176: Second Highest Salary (Database)
+### Day 14 (Medium) - 7/1/2024
+66. LeetCode Medium 11: Container With Most Water (Array, Two Pointers, Greedy)
+67. LeetCode Medium 36: Valid Sudoku (Array, Hash Table, Matrix)
+68. LeetCode Medium 71: Simplify Path (String, Stack)
+69. LeetCode Medium 1045: Customers Who Bought All Products (Database)
+70. LeetCode Medium 585: Investments in 2016 (Database)
 ## 🛠 5 Days of LeetCode Hard 
 
 

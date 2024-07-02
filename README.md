@@ -89,7 +89,9 @@
 ### Day 15 (Medium) - 7/2/2024
 71. LeetCode Medium 1004: Max Consecutive Ones III (Array, Sliding Window, Binary Search, Prefix Sum)
 72. LeetCode Medium 1493: Longest Subarray of 1's After Deleting One Element (Array, Dynamic Progamming, Sliding Window)
-73. 
+73. LeetCode Medium 2352: Equal Row and Column Pairs (Array, Hash Table, Matrix, Simulation)
+74. LeetCode Medium 1907: Count Salary Categories (Database)
+75. LeetCode Medium 1341: Movie Rating (Database)
 ## 🛠 5 Days of LeetCode Hard 
 
 

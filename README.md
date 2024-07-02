@@ -86,6 +86,10 @@
 68. LeetCode Medium 71: Simplify Path (String, Stack)
 69. LeetCode Medium 1045: Customers Who Bought All Products (Database)
 70. LeetCode Medium 585: Investments in 2016 (Database)
+### Day 15 (Medium) - 7/2/2024
+71. LeetCode Medium 1004: Max Consecutive Ones III (Array, Sliding Window, Binary Search, Prefix Sum)
+72. LeetCode Medium 1493: Longest Subarray of 1's After Deleting One Element (Array, Dynamic Progamming, Sliding Window)
+73. 
 ## 🛠 5 Days of LeetCode Hard 
 
 

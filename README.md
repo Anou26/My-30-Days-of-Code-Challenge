@@ -92,6 +92,12 @@
 73. LeetCode Medium 2352: Equal Row and Column Pairs (Array, Hash Table, Matrix, Simulation)
 74. LeetCode Medium 1907: Count Salary Categories (Database)
 75. LeetCode Medium 1341: Movie Rating (Database)
+### Day 16 (Medium) - 7/3/2024
+76. LeetCode Medium 65: Jump Game (Array, Dynamic Programming, Greedy)
+77. LeetCode Medium 45: Jump Game II (Array, Dynamic Programming, Greedy)
+78. LeetCode Medium 128: Longest Consecutive Sequence (Array, Hash Table, Union Find)
+79. LeetCode Medium 1934: Confirmation Rate (Database)
+80. LeetCode Medium 550: Game Play Analysis IV (Database)
 ## 🛠 5 Days of LeetCode Hard 
 
 

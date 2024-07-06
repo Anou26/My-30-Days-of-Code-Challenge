@@ -98,7 +98,6 @@
 78. LeetCode Medium 128: Longest Consecutive Sequence (Array, Hash Table, Union Find)
 79. LeetCode Medium 1934: Confirmation Rate (Database)
 80. LeetCode Medium 550: Game Play Analysis IV (Database)
-    *** July 4th Holiday ***
 ### Day 17 (Medium) - 7/5/2024
 81. LeetCode Medium 49: Group Anagrams (Array, Hash Table, String, Sorting)
 82. LeetCode Medium 56: Merge Intervals (Array, Sorting)

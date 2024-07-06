@@ -104,6 +104,12 @@
 83. LeetCode Medium 2: Add Two Numbers (Linked List, Math, Recursion)
 84. LeetCode Medium 1070: Product Sales Analysis III (Database)
 85. LeetCode Medium 626: Exchange Seats (Database)
+### Day 18 (Medium) - 7/6/2024
+86. LeetCode Medium 443: String Compression (Two Pointers, String)
+87. LeetCode Medium 334: Increasing Triplet Subsequence (Array, Greedy)
+88. LeetCode Medium 394: Decode String (String, Stack, Recursion)
+89. LeetCode Medium 1321: Restaurant Growth (Database)
+90. LeetCode Medium 602: Friend Requests II: Who Has the Most Friends (Database)
 ## 🛠 5 Days of LeetCode Hard 
 
 

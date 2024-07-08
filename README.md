@@ -110,6 +110,12 @@
 88. LeetCode Medium 394: Decode String (String, Stack, Recursion)
 89. LeetCode Medium 1321: Restaurant Growth (Database)
 90. LeetCode Medium 602: Friend Requests II: Who Has the Most Friends (Database)
+### Day 19 (Medium) - 7/7/2024
+91. LeetCode Medium 6: Zigzag Conversion (String)
+92. LeetCode Medium 15: 3Sum (Array, Two Pointers, Sorting)
+93. LeetCode Medium 54: Spiral Matrix (Array, Matrix, Simulation)
+94. LeetCode Medium 180: Consecutive Numbers (Database)
+95. LeetCode Easy 619: Biggest Single Number (Database)
 ## 🛠 5 Days of LeetCode Hard 
 
 

@@ -116,6 +116,12 @@
 93. LeetCode Medium 54: Spiral Matrix (Array, Matrix, Simulation)
 94. LeetCode Medium 180: Consecutive Numbers (Database)
 95. LeetCode Easy 619: Biggest Single Number (Database)
+### Day 20 (Medium) - 7/8/2024
+96. LeetCode Medium 57: Insert Interval (Array)
+97. LeetCode Medium 155: Min Stack (Stack, Design)
+98. LeetCode Medium 138: Copy List with Random Pointer (Hash Table, Linked List)
+99. LeetCode Easy 1517: Find Users with Valid E-Mails (Database)
+100. LeetCode Easy 1978: Employees Whose Manager Left the Company (Database)
 ## 🛠 5 Days of LeetCode Hard 
 
 

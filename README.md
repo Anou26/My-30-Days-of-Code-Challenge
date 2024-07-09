@@ -122,6 +122,10 @@
 98. LeetCode Medium 138: Copy List with Random Pointer (Hash Table, Linked List)
 99. LeetCode Easy 1517: Find Users with Valid E-Mails (Database)
 100. LeetCode Easy 1978: Employees Whose Manager Left the Company (Database)
+### Day 21 (Medium) - 7/9/2024
+101. LeetCode Medium 274: H-Index (Array, Sorting, Counting Sort)
+102. LeetCode Medium 12: Integer to Roman (Hash Table, Math, String)
+103. LeetCode Medium 3: Longest Substring Without Repeating Characters (Hash Table, String, Sliding Window)
 ## 🛠 5 Days of LeetCode Hard 
 
 

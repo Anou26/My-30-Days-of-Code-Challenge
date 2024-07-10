@@ -127,6 +127,11 @@
 102. LeetCode Medium 12: Integer to Roman (Hash Table, Math, String)
 103. LeetCode Medium 3: Longest Substring Without Repeating Characters (Hash Table, String, Sliding Window)
 104. LeetCode Medium 199: Binary Tree Right Side View (Tree, DFS, BFS, Binary Tree)
+### Day 22 (Medium) - 7/10/2024
+105. LeetCode Medium 380: Insert Delete GetRandom O(1) (Array, Hash Table, Math, Design, Randomized)
+106. LeetCode Medium 48: Rotate Image (Array, Math, Matrix)
+107. LeetCode Medium 17: Letter Combinations of a Phone Number (Hash Table, String, Backtracking)
+108. LeetCode Medium 74: Search a 2D Matrix (Array, Binary Search, Matrix)
 ## 🛠 5 Days of LeetCode Hard 
 
 

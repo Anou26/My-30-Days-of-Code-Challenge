@@ -136,7 +136,12 @@
 109. LeetCode Medium 172: Factorial Trailing Zeroes (Math)
 110. LeetCode Medium 50: Pow(x,n) (Math, Recursion)
 111. LeetCode Medium 137: Single Number II (Array, Bit Manipulation)
-112. LeetCode Medium 79: Word Search (Array, String, Backtracking, Matrix)  
+112. LeetCode Medium 79: Word Search (Array, String, Backtracking, Matrix)
+### Day 24 (Medium) - 7/12/2024
+113. LeetCode Medium 1679: Max Number of K-Sum Pairs (Array, Hash Table, Two Pointers, Sorting)
+114. LeetCode Medium 2390: Removing Stars From a String (String, Stack, Simulation)
+115. LeetCode Medium 2095: Delete the Middle Node of a Linked List (Linked List, Two Pointers)
+116. LeetCode Medium 1161: Maximum Level Sum of a Binary Tree (Tree, DFS, BFS, Binary Tree)
 ## 🛠 5 Days of LeetCode Hard 
 
 

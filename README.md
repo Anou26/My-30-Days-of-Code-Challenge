@@ -132,6 +132,11 @@
 106. LeetCode Medium 48: Rotate Image (Array, Math, Matrix)
 107. LeetCode Medium 17: Letter Combinations of a Phone Number (Hash Table, String, Backtracking)
 108. LeetCode Medium 74: Search a 2D Matrix (Array, Binary Search, Matrix)
+### Day 23 (Medium) - 7/11/2024
+109. LeetCode Medium 172: Factorial Trailing Zeroes (Math)
+110. LeetCode Medium 50: Pow(x,n) (Math, Recursion)
+111. LeetCode Medium 137: Single Number II (Array, Bit Manipulation)
+112. LeetCode Medium 79: Word Search (Array, String, Backtracking, Matrix)  
 ## 🛠 5 Days of LeetCode Hard 
 
 

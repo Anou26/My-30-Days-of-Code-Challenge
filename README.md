@@ -148,5 +148,8 @@
 119. LeetCode Medium 92: Reverse Linked List II (Linked List)
 120. LeetCode Medium 105: Construct Binary Tree from Preorder and Inorder Traversal (Array, Hash Table, Divide and Conquer, Tree, Binary Tree)
 ## 🛠 5 Days of LeetCode Hard 
+### Day 26 (Hard) - 7/15/2024
+121. LeetCode Hard 135: Candy (Array, Greedy)
+122. LeetCode Hard 185: Department Top Three Salaries (Database)
 
 

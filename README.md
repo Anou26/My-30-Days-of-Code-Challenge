@@ -151,5 +151,8 @@
 ### Day 26 (Hard) - 7/15/2024
 121. LeetCode Hard 135: Candy (Array, Greedy)
 122. LeetCode Hard 185: Department Top Three Salaries (Database)
+### Day 27 (Hard) - 7/16/2024
+123. LeetCode Hard 30: Substring with Concatenation of All Words (Hash Table, String, Sliding Window)
+124. LeetCode Hard 224: Basic Calculator (Math, String, Stack, Recursion)
 
 

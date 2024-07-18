@@ -154,5 +154,9 @@
 ### Day 27 (Hard) - 7/16/2024
 123. LeetCode Hard 30: Substring with Concatenation of All Words (Hash Table, String, Sliding Window)
 124. LeetCode Hard 224: Basic Calculator (Math, String, Stack, Recursion)
+### Day 28 (Hard) - 7/17/2024
+125. LeetCode Medium 106: Construct Binary Tree from Inorder and Postorder Traversal (Array, Hash Table, Divide and Conquer, Tree, Binary Tree)
+126. LeetCode Hard 124. Binary Tree Maximum Path Sum (Dynamic Programming, Tree, DFS, Binary Tree)
+127. LeetCode Hard 52: N-Queens II (Backtracking)
 
 

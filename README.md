@@ -161,5 +161,8 @@
 ### Day 29 (Hard) - 7/18/2024
 128. LeetCode Hard 42: Trapping Rain Water (Array, Two-Pointers, Dynamic Programming, Stack, Monotonic Stack)
 129. LeetCode Hard 25: Reverse Nodes in k-Group (Linked List, Recursion)
+### Day 30 (Hard) - 7/19/2024
+130. LeetCode Hard 76: Minimum Window Substring (Hash Table, String, Sliding Window)
+131. LeetCode Hard 127: Word Ladder (Hash Table, String, BFS)
      
 

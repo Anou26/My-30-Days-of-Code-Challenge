@@ -1,5 +1,5 @@
 # 30-Days-of-Code-Plan (*from LeetCode SQL-50, LeetCode Top Interview 150 and LeetCode 75*)
-### View all my submissions in my repositories: [LeetCode Coding](https://github.com/Anou26/LeetCode-Coding) and [LeetCode SQL](https://github.com/Anou26/LeetCode-SQL)
+### View all my submissions in my repository: [LeetCode Coding](https://github.com/Anou26/LeetCode-Coding)
 ## 🛠 10 Days of LeetCode Easy
 ### Day 1 (Easy) - 6/18/2024
 1. LeetCode Easy 27: Remove Element (Arrays, Two Pointers)
